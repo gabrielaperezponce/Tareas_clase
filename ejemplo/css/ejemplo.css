@@ -2,6 +2,8 @@ body{
  background: #D1D0CE;
 }
 
+/* no pude realizar cambio a fuente con @font-face*/
+
 @font-face {
     font-family: 'lietz_lindauhamburgregular';
     src: url('lietzlindauhamburg-webfont.eot');
