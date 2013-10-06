@@ -1,0 +1,293 @@
+body{
+background-color: #101010;
+}
+
+h1{
+color:#FFF;
+margin-left: 20px;
+}
+
+.content{
+width:30%;
+height: 100%;
+position:relative;
+margin:0 auto;
+
+}
+
+.box_1{
+
+width: 300px;
+height: 70px;
+background-color:rgba(177,39,72,0.9);
+border-radius: 8px;
+margin-top:25px;
+position:relative;
+}
+
+.box_2{
+
+width: 285px;
+height: 70px;
+background-color:rgba(192,34,34,0.8);
+border-radius: 8px;
+margin-top: -10px;
+
+}
+
+.box_3{
+
+width: 260px;
+height: 70px;
+background-color:rgba(209,121,17,0.8);
+border-radius: 8px;
+margin-top: -10px;
+}
+
+
+.box_4{
+
+width: 170px;
+height: 80px;
+background-color:rgba(202,202,36,0.8);
+border-radius: 8px;
+margin-top: -10px;
+}
+
+
+.box_5{
+
+width: 155px;
+height: 75px;
+background-color:rgba(158,213,38,0.8);
+border-radius: 8px;
+margin-top: -10px;
+}
+
+
+.box_6{
+
+width: 140px;
+height: 75px;
+background-color:rgba(93,217,46,0.8);
+border-radius: 8px;
+margin-top: -10px;
+}
+
+.box_7{
+
+width: 130px;
+height: 75px;
+background-color:rgba(22,172,93,0.9);
+border-radius: 8px;
+margin-top: -10px;
+}
+
+.box_8{
+
+width: 130px;
+height: 85px;
+background-color:rgba(23,156,127,0.9);
+border-radius: 8px;
+margin-top: -10px;
+}
+
+.box_9{
+
+width: 130px;
+height: 75px;
+background-color:rgba(17,191,190,0.9);
+border-radius: 8px;
+margin-top: -10px;
+}
+
+.box_10{
+
+width: 125px;
+height: 75px;
+background-color:rgba(31,159,190,0.9);
+border-radius: 8px;
+margin-top: -10px;
+}
+
+
+p{
+width: 400px;
+font-size: 14px;
+position:absolute;
+margin-left: 15px;
+font-family: 'Arial',sans-serif;
+margin-top: 15px;
+
+
+}
+
+.numero{
+width: 25px;
+height: 20px;
+background-color:rgba(0,0,0,0.9);
+border-radius: 5px;
+position:absolute;
+color:#FFF;
+font-size: 14px;
+text-align: center;
+margin-left: 285px;
+margin-top: 10px;
+padding-top:5px;
+font-family: 'Arial',sans-serif;
+font-weight: bold;
+
+
+}
+
+.numero2{
+width: 25px;
+height: 20px;
+background-color:rgba(0,0,0,0.9);
+border-radius: 5px;
+position:absolute;
+color:#FFF;
+font-size: 14px;
+text-align: center;
+margin-left: 270px;
+margin-top: 10px;
+padding-top:5px;
+font-family: 'Arial',sans-serif;
+font-weight: bold;
+
+}
+
+.numero3{
+width: 25px;
+height: 20px;
+background-color:rgba(0,0,0,0.9);
+border-radius: 5px;
+position:absolute;
+color:#FFF;
+font-size: 14px;
+text-align: center;
+margin-left: 245px;
+margin-top: 10px;
+padding-top:5px;
+font-family: 'Arial',sans-serif;
+font-weight: bold;
+
+}
+
+.numero4{
+width: 25px;
+height: 20px;
+background-color:rgba(0,0,0,0.9);
+border-radius: 5px;
+position:absolute;
+color:#FFF;
+font-size: 14px;
+text-align: center;
+margin-left: 155px;
+margin-top: 10px;
+padding-top:5px;
+font-family: 'Arial',sans-serif;
+font-weight: bold;
+
+}
+
+.numero5{
+width: 25px;
+height: 20px;
+background-color:rgba(0,0,0,0.9);
+border-radius: 5px;
+position:absolute;
+color:#FFF;
+font-size: 14px;
+text-align: center;
+margin-left: 135px;
+margin-top: 10px;
+padding-top:5px;
+font-family: 'Arial',sans-serif;
+font-weight: bold;
+
+}
+
+.numero6{
+width: 25px;
+height: 20px;
+background-color:rgba(0,0,0,0.9);
+border-radius: 5px;
+position:absolute;
+color:#FFF;
+font-size: 14px;
+text-align: center;
+margin-left: 125px;
+margin-top: 10px;
+padding-top:5px;
+font-family: 'Arial',sans-serif;
+font-weight: bold;
+
+}
+
+.numero7{
+width: 25px;
+height: 20px;
+background-color:rgba(0,0,0,0.9);
+border-radius: 5px;
+position:absolute;
+color:#FFF;
+font-size: 14px;
+text-align: center;
+margin-left: 115px;
+margin-top: 10px;
+padding-top:5px;
+font-family: 'Arial',sans-serif;
+font-weight: bold;
+
+}
+
+.numero8{
+width: 25px;
+height: 20px;
+background-color:rgba(0,0,0,0.9);
+border-radius: 5px;
+position:absolute;
+color:#FFF;
+font-size: 14px;
+text-align: center;
+margin-left: 115px;
+margin-top: 10px;
+padding-top:5px;
+font-family: 'Arial',sans-serif;
+font-weight: bold;
+
+}
+
+.numero9{
+width: 25px;
+height: 20px;
+background-color:rgba(0,0,0,0.9);
+border-radius: 5px;
+position:absolute;
+color:#FFF;
+font-size: 14px;
+text-align: center;
+margin-left: 115px;
+margin-top: 10px;
+padding-top:5px;
+font-family: 'Arial',sans-serif;
+font-weight: bold;
+
+}
+
+.numero10{
+width: 25px;
+height: 20px;
+background-color:rgba(0,0,0,0.9);
+border-radius: 5px;
+position:absolute;
+color:#FFF;
+font-size: 14px;
+text-align: center;
+margin-left: 110px;
+padding-top:5px;
+font-family: 'Arial',sans-serif;
+font-weight: bold;
+
+}
